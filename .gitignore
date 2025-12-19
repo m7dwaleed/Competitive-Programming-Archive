@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.out
+tempCodeRunnerFile.cpp
+*.tmp.driveupload
+*.tmp
+desktop.ini
